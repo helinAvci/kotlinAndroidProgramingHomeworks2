@@ -1,0 +1,1 @@
+kotlinin null-safety özelliği null olma ihtimali olan değişkenlere null durumu denetlenmeden erişime izin vermez. bu sayede olası null pointer exeption hatasından kaçınılmış olur ve programın çökmesi engellenir.
